@@ -87,15 +87,19 @@ http://127.0.0.1:8000
 ## 🚀 Getting Started
 
 ### 1️⃣ Backend Setup
-
-```bash
+```
 cd Backend
+```
 
 Install dependencies:
+```
 pip install -r requirements.txt
+```
 
 Run the server:
+```
 uvicorn main:app --reload
+```
 
 Backend will run at:
 http://127.0.0.1:8000
@@ -104,9 +108,11 @@ Swagger docs available at:
 http://127.0.0.1:8000/docs
 
 ### 2️⃣ Frontend Setup
+```
 cd frontend
 npm install
 npm start
+```
 
 Frontend runs at:
 http://localhost:3000
