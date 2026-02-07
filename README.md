@@ -95,6 +95,7 @@ Install dependencies:
 ```
 pip install -r requirements.txt
 ```
+Set Gemini API Keys in Backend/agent.py
 
 Run the server:
 ```
