@@ -1,0 +1,14 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+
+# Google Agent Development Kit
+google-adk
+
+# HTTP & async utilities
+httpx>=0.26.0
+
+# Data validation
+pydantic>=2.6.0
+
+# Environment variables (optional but recommended)
+python-dotenv>=1.0.0
